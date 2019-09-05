@@ -120,7 +120,7 @@
   <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <data name="ISOtoPatch_lbl.ToolTip" xml:space="preserve">
+  <data name="SourceISO_lbl.ToolTip" xml:space="preserve">
     <value>Select ISO or Compressed ISO output option on randomizer
 Also don't change the ISO file name
 /!\ GCZ format won't be supported
